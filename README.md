@@ -60,6 +60,7 @@ A collection of resources on modern C++.
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k)
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M)
+* [Going Native 2012 Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
 
 ## Tools
 
