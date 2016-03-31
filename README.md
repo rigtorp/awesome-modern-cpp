@@ -12,6 +12,7 @@ A collection of resources on modern C++.
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
 * [Embedded in Academia](http://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
+* [Eric Niebler](http://ericniebler.com/)
 * [Guru of the Week (new posts)](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Guru of the Week (older posts)](http://www.gotw.ca/gotw/) - Older Guru of the Week posts.
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com/)
@@ -36,9 +37,11 @@ A collection of resources on modern C++.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
+* [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+* [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
