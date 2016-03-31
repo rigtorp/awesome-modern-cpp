@@ -47,6 +47,7 @@ A collection of resources on modern C++.
 * [C++ Subreddit](https://www.reddit.com/r/cpp)
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++ reference](http://en.cppreference.com/w/) - C++ reference.
+* [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 
 ## Talks
