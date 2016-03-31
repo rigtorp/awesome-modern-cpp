@@ -12,7 +12,7 @@ A collection of resources on modern C++.
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
 * [Embedded in Academia](http://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
-* [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
+* [Guru of the Week](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com/)
 * [Preshing on Programming](http://preshing.com/)
 * [Simplify C++](http://arne-mertz.de/) - Write clean and maintainable C++.
