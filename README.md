@@ -5,6 +5,7 @@ A collection of resources on modern C++.
 ## Books
 
 * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](http://www.amazon.com/dp/1491903996)
+* [Presentation Materials: Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
 
 ## Blogs
 
