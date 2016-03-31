@@ -62,6 +62,7 @@ A collection of resources on modern C++.
 
 ## Tools
 
-* [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
 * [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
+* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
+* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
