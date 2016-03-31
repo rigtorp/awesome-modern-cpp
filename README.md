@@ -29,16 +29,17 @@ A collection of resources on modern C++.
 
 ## Libraries
 
-* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
-* [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
-* [Duktape](http://duktape.org/) - An embeddable Javascript engine, with a focus on portability and compact footprint.
-* [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
-* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
-* [json](https://github.com/nlohmann/json) - JSON for Modern C++.
-* [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
+* [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
+* [Duktape](http://duktape.org/) - An embeddable Javascript engine, with a focus on portability and compact footprint.
+* [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
+* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+* [json](https://github.com/nlohmann/json) - JSON for Modern C++.
+* [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
+* [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 
 ## Websites
 
