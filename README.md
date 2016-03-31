@@ -12,14 +12,17 @@ A collection of resources on modern C++.
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
 * [Embedded in Academia](http://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
-* [Guru of the Week](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
+* [Guru of the Week (new posts)](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
+* [Guru of the Week (older posts)](http://www.gotw.ca/gotw/) - Older Guru of the Week posts.
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com/)
+* [Paul Fultz II's Blog](http://pfultz2.com/blog/)
 * [Preshing on Programming](http://preshing.com/)
 * [Simplify C++](http://arne-mertz.de/) - Write clean and maintainable C++.
 * [Sticky Bits](https://blog.feabhas.com/) - A blog looking at developing software for real-time and embedded systems.
 * [Sutter's Mill](http://herbsutter.com/) - Herb Sutter on software development.
 * [The View from Aristeia](http://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
+* [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
 
 ## Conferences
 
