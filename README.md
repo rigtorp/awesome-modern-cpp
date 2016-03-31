@@ -33,10 +33,11 @@ A collection of resources on modern C++.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
-* [Duktape](http://duktape.org/) - An embeddable Javascript engine, with a focus on portability and compact footprint.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+* [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
+* [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
