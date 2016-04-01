@@ -48,6 +48,7 @@ A collection of resources on modern C++.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
+* [PEGTL](https://github.com/ColinH/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 
