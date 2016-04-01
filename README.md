@@ -6,6 +6,7 @@ A collection of resources on modern C++.
 
 * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](http://www.amazon.com/dp/1491903996)
 * [Presentation Materials: Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
+* [Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 ## Blogs
 
@@ -54,6 +55,7 @@ A collection of resources on modern C++.
 
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - Guidlines for using modern C++.
 * [C++ Subreddit](https://www.reddit.com/r/cpp)
+* [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++ reference](http://en.cppreference.com/w/) - C++ reference.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
@@ -64,12 +66,14 @@ A collection of resources on modern C++.
 * [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ)
 * [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs)
 * [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcvw)
+* [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU&index=3&list=PLNBbu70chcvI90ZyaF3E_EJjUygBd3kct)
 * [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A)
 * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA)
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k)
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M)
 * [Going Native 2012 Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
+* [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4)
 
 ## Tools
 
