@@ -47,6 +47,7 @@ A collection of resources on modern C++.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
+* [MeTA](https://meta-toolkit.org) - A modern C++ data sciences toolkit with a focus on text.
 
 ## Websites
 
