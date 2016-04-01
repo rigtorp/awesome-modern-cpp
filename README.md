@@ -36,6 +36,7 @@ A collection of resources on modern C++.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
+* [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
