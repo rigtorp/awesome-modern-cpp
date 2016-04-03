@@ -71,6 +71,7 @@ libraries with novel use of new C++ features.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [range-v4](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
+* [SObjectizer](https://github.com/eao197/so-5-5) - In-process message dispatching framework that implements Actor Model, Publish-Subscribe Model and CSP-like channels.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
