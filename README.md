@@ -5,14 +5,6 @@ A collection of resources on modern C++.
 The goal is to collect a list of resouces to help people learn about
 and leverage modern C++11 and beyond.
 
-Share: 
-
-* [Twitter](https://twitter.com/intent/tweet?text=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&url=http%3A%2F%2Fawesomecpp.com&hashtags=cpp,cplusplus&via=rigtorp)
-* [Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fawesomecpp.com)
-* [Google+](https://plus.google.com/share?url=http%3A%2F%2Fawesomecpp.com)
-* [LinkedIn](http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fawesomecpp.com&mini=true&title=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&summary=A%20collection%20of%20resources%20on%20modern%20C%2B%2B)
-* [Email](mailto:?to=&subject=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&body=http%3A%2F%2Fawesomecpp.com)
-
 ## Contributing
 
 To add, remove or change things on the list: please submit a pull request.
