@@ -5,6 +5,14 @@ A collection of resources on modern C++.
 The goal is to collect a list of resouces to help people learn about
 and leverage modern C++11 and beyond.
 
+Share: 
+
+* [Twitter](https://twitter.com/intent/tweet?text=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&url=http%3A%2F%2Fawesomecpp.com&hashtags=cpp,cplusplus&via=rigtorp)
+* [Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fawesomecpp.com)
+* [Google+](https://plus.google.com/share?url=http%3A%2F%2Fawesomecpp.com)
+* [LinkedIn](http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fawesomecpp.com&mini=true&title=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&summary=A%20collection%20of%20resources%20on%20modern%20C%2B%2B)
+* [Email](mailto:?to=&subject=A%20collection%20of%20resources%20on%20modern%20C%2B%2B&body=http%3A%2F%2Fawesomecpp.com)
+
 ## Contributing
 
 To add, remove or change things on the list: please submit a pull request.
@@ -61,16 +69,22 @@ libraries with novel use of new C++ features.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
+* [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
+* [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
+* [mstch](https://github.com/no1msd/mstch) -  A implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [PEGTL](https://github.com/ColinH/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
+* [pistache](http://pistache.io/) - An elegant C++ REST framework.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
-* [range-v4](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
+* [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
+* [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
+* [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
@@ -80,8 +94,9 @@ libraries with novel use of new C++ features.
 ## Websites
 
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - Guidlines for using modern C++.
-* [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
+* [C++ Samples](http://www.cppsamples.com/) - A repository of modern C++ samples.
+* [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++ reference](http://en.cppreference.com/w/) - C++ reference.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
@@ -92,16 +107,17 @@ libraries with novel use of new C++ features.
 ## Talks
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
-* [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ)
-* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs)
-* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcvw)
-* [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU&index=3&list=PLNBbu70chcvI90ZyaF3E_EJjUygBd3kct)
-* [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A)
-* [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA)
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k)
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M)
-* [Going Native 2012 Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
-* [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4)
+* [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcv&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU&index=3&list=PLNBbu70chcvI90ZyaF3E_EJjUygBd3kct&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [Going Native 2012 Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
 
 ## Tools
 
@@ -113,3 +129,14 @@ libraries with novel use of new C++ features.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
+
+## About
+
+This list was compiled by **Erik Rigtorp** with help from the C++
+community:
+
+* [rigtorp.se](http://rigtorp.se)
+* [erik@rigtorp.se](mailto:erik@rigtorp.se)
+* [github.com/rigtorp](https://github.com/rigtorp)
+* [twitter.com/rigtorp](https://twitter.com/rigtorp) 
+* [linkedin.com/in/rigtorp](https://www.linkedin.com/in/rigtorp)
