@@ -11,15 +11,10 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Books
 
-* [The C++ Programming Language](http://www.amazon.com/dp/0321958322)
-  (Bjarne Stroustrup) [C++11]
-* [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott
-  Meyers) [C++11/14]
-* [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
-  (Scott Meyers) [C++11/14]
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
-  (Bjarne Stroustrup, Herb Sutter) [C++11/14/17]- Guidelines for using
-  modern C++.
+* [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
+* [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
+* [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
 
 For a comprehensive guide to C++ books see the
 [Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
@@ -44,6 +39,7 @@ For a comprehensive guide to C++ books see the
 
 ## Conferences
 
+* [ACCU](http://accu.org/index.php/conferences) - The Conference for Developers.
 * [C++ Now](http://cppnow.org/) - A gathering of C++ experts and enthusiasts.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [Meeting C++](http://meetingcpp.com/) - A independent C++ Conference.
@@ -100,35 +96,36 @@ libraries with novel use of new C++ features.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++ reference](http://en.cppreference.com/w/) - C++ reference.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
-* [Stackoverflow C++11](http://stackoverflow.com/questions/tagged/c%2b%2b11) - Stackoverflow questions tagged with C++11.
-* [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14) - Stackoverflow questions tagged with C++14.
-* [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 * [CppCast](http://www.cppcast.com) - The only podcast for C++ developers by C++ developers.
+* [Stackoverflow C++11](http://stackoverflow.com/questions/tagged/c%2b%2b11)
+* [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14)
+* [Stackoverflow C++](http://stackoverflow.com/questions/tagged/c%2b%2b)
+* [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 
 ## Talks
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
-* [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcv&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU&index=3&list=PLNBbu70chcvI90ZyaF3E_EJjUygBd3kct&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [Going Native 2012 Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
-* [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4&list=PLE2P1dKI5hg_dueEG_KLw1Yf0DUsyNwzp)
+* [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ)
+* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs)
+* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcv)
+* [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU)
+* [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A)
+* [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA)
+* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k)
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M)
+* [Going Native 2012: Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
+* [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4)
 
 ## Tools
 
-* [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
-* [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
+* [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
+* [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 
 ## About
