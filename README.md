@@ -11,9 +11,18 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Books
 
-* [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](http://www.amazon.com/dp/1491903996)
-* [Presentation Materials: Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
-* [Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [The C++ Programming Language](http://www.amazon.com/dp/0321958322)
+  (Bjarne Stroustrup) [C++11]
+* [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott
+  Meyers) [C++11/14]
+* [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
+  (Scott Meyers) [C++11/14]
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+  (Bjarne Stroustrup, Herb Sutter) [C++11/14/17]- Guidelines for using
+  modern C++.
+
+For a comprehensive guide to C++ books see the
+[Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
 
 ## Blogs
 
@@ -85,7 +94,6 @@ libraries with novel use of new C++ features.
 
 ## Websites
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - Guidlines for using modern C++.
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ Samples](http://www.cppsamples.com/) - A repository of modern C++ samples.
 * [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
