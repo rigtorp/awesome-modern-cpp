@@ -77,6 +77,7 @@ libraries with novel use of new C++ features.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [PEGTL](https://github.com/ColinH/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
+* [POCO C++ Libraries](http://pocoproject.org) - Cross-platform C++ libraries with a network/internet focus.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
