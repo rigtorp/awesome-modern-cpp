@@ -82,6 +82,7 @@ libraries with novel use of new C++ features.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
+* [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
