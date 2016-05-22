@@ -58,6 +58,7 @@ libraries with novel use of new C++ features.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
+* [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
