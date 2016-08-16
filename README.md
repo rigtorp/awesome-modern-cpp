@@ -132,6 +132,7 @@ libraries with novel use of new C++ features.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
+* [Modern cpp font](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
 ## About
 
@@ -141,5 +142,5 @@ community:
 * [rigtorp.se](http://rigtorp.se)
 * [erik@rigtorp.se](mailto:erik@rigtorp.se)
 * [github.com/rigtorp](https://github.com/rigtorp)
-* [twitter.com/rigtorp](https://twitter.com/rigtorp) 
+* [twitter.com/rigtorp](https://twitter.com/rigtorp)
 * [linkedin.com/in/rigtorp](https://www.linkedin.com/in/rigtorp)
