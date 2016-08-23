@@ -63,6 +63,7 @@ libraries with novel use of new C++ features.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
+* [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
 * [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
