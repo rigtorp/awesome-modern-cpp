@@ -81,6 +81,7 @@ libraries with novel use of new C++ features.
 * [PEGTL](https://github.com/ColinH/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
+* [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
