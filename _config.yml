@@ -1,0 +1,8 @@
+exclude: [README.md]
+defaults:
+  -
+    scope:
+      path: "index.md"
+    values:
+      title: "Awesome Modern C++"
+      layout: "default"
