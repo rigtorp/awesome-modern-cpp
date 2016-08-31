@@ -10,7 +10,8 @@ and leverage modern C++11 and beyond.
 
 ## Contributing
 
-To add, remove or change things on the list: please submit a pull request.
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp).
 
 ## Books
 
