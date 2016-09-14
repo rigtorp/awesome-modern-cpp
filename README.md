@@ -134,6 +134,7 @@ libraries with novel use of new C++ features.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
 * [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
+* [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
