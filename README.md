@@ -13,6 +13,14 @@ and leverage modern C++11 and beyond.
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp).
 
+## Best Practices
+
+- Consider the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
+- Build your code using [CMake](https://cmake.org/).
+- Test your code using [Catch](https://github.com/philsquared/Catch).
+- Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
+- Use a fuzzer to test untrusted input: [afl](http://lcamtuf.coredump.cx/afl/), [libFuzzer](http://llvm.org/docs/LibFuzzer.html), [KLEE](http://klee.github.io/).
+
 ## Books
 
 * [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
