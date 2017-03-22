@@ -49,6 +49,7 @@ For a comprehensive guide to C++ books see the
 * [The View from Aristeia](http://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
+* [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
 
 ## Conferences
 
