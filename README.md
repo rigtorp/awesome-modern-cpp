@@ -68,6 +68,7 @@ libraries with novel use of new C++ features.
 
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](https://github.com/banditcpp/bandit) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
@@ -83,6 +84,7 @@ libraries with novel use of new C++ features.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
+* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header 
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
