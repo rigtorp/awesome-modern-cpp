@@ -152,6 +152,7 @@ libraries with novel use of new C++ features.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
+* [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
