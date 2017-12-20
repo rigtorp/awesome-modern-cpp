@@ -110,6 +110,7 @@ libraries with novel use of new C++ features.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
+* [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
 
 ## Websites
