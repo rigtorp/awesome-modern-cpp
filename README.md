@@ -18,7 +18,7 @@ To add, remove or change things on the list:
 - Consider the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
 - Never manually format code, use [clang-format](http://clang.llvm.org/docs/ClangFormat.html).
 - Build your code using [CMake](https://cmake.org/).
-- Test your code using [Catch](https://github.com/philsquared/Catch).
+- Test your code using [Catch](https://github.com/catchorg/Catch2).
 - Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
 - Use a fuzzer to test untrusted input: [afl](http://lcamtuf.coredump.cx/afl/), [libFuzzer](http://llvm.org/docs/LibFuzzer.html), [KLEE](http://klee.github.io/).
 
