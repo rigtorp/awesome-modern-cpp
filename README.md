@@ -126,6 +126,7 @@ libraries with novel use of new C++ features.
 * [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14)
 * [Stackoverflow C++](http://stackoverflow.com/questions/tagged/c%2b%2b)
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
+* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorials site for learning C++
 
 ## Talks
 
