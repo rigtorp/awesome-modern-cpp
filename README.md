@@ -112,6 +112,7 @@ libraries with novel use of new C++ features.
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
 * [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
+* [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
 
 ## Websites
 
