@@ -120,6 +120,7 @@ libraries with novel use of new C++ features.
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ Samples](http://www.cppsamples.com/) - A repository of modern C++ samples.
 * [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
+* [Programming Community Curated C++ Reources](https://hackr.io/tutorials/learn-c-plus-plus) - Courses & Tutorials submitted & voted by developers.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++ reference](http://en.cppreference.com/w/) - C++ reference.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
