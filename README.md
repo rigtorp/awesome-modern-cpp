@@ -118,6 +118,7 @@ libraries with novel use of new C++ features.
 ## Websites
 
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
+* [Programming Community Curated C++ Resources](https://hackr.io/tutorials/learn-c-plus-plus) - A great place for resources.
 * [C++ Samples](http://www.cppsamples.com/) - A repository of modern C++ samples.
 * [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
