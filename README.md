@@ -66,6 +66,7 @@ libraries with novel use of new C++ features.
 
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
