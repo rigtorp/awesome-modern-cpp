@@ -18,7 +18,7 @@ To add, remove or change things on the list:
 - Consider the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
 - Never manually format code, use [clang-format](http://clang.llvm.org/docs/ClangFormat.html).
 - Build your code using [CMake](https://cmake.org/).
-- Test your code using [Catch](https://github.com/philsquared/Catch).
+- Test your code using [Catch](https://github.com/catchorg/Catch2).
 - Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
 - Use a fuzzer to test untrusted input: [afl](http://lcamtuf.coredump.cx/afl/), [libFuzzer](http://llvm.org/docs/LibFuzzer.html), [KLEE](http://klee.github.io/).
 
@@ -28,6 +28,7 @@ To add, remove or change things on the list:
 * [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
 * [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
+* [C++ Concurrency in Action](http://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
 
 For a comprehensive guide to C++ books see the
 [Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
@@ -49,6 +50,7 @@ For a comprehensive guide to C++ books see the
 * [The View from Aristeia](http://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
+* [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
 
 ## Conferences
 
@@ -66,6 +68,8 @@ libraries with novel use of new C++ features.
 
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Bandit](https://github.com/banditcpp/bandit) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
@@ -82,6 +86,7 @@ libraries with novel use of new C++ features.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
+* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header 
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
@@ -94,9 +99,10 @@ libraries with novel use of new C++ features.
 * [mstch](https://github.com/no1msd/mstch) -  A implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
-* [PEGTL](https://github.com/ColinH/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
+* [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
+* [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
@@ -109,7 +115,9 @@ libraries with novel use of new C++ features.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
+* [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
+* [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
 
 ## Websites
 
@@ -136,6 +144,7 @@ libraries with novel use of new C++ features.
 * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA)
 * [CppCon 2016: Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."](https://youtu.be/yG1OZ69H_-o)
 * [CppCon 2016: Herb Sutter "Leak-Freedom in C++... By Default."](https://youtu.be/JfmTagWcqoE)
+* [CppCon 2017: Jason Turner "Practical C++17"](https://www.youtube.com/watch?v=nnY4e4faNp0)
 * [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k) ([slides](http://codedive.pl/wp-content/uploads/2016/01/FastCode-handouts.pdf))
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M) ([slides](http://codedive.pl/wp-content/uploads/2016/01/FastCode-handouts.pdf))
@@ -153,6 +162,7 @@ libraries with novel use of new C++ features.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
+* [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
