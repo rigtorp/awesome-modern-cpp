@@ -163,6 +163,10 @@ libraries with novel use of new C++ features.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
+## Podcasts
+* [CppCast](http://cppcast.com/) - Podacast happening in and aroud C++.
+
+
 ## About
 
 This list was compiled by **Erik Rigtorp** with help from the C++
