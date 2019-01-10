@@ -70,7 +70,6 @@ libraries with novel use of new C++ features.
 * [abseil](https://abseil.io/) - Abseil Common Libraries.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
-* [Bandit](https://github.com/banditcpp/bandit) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
