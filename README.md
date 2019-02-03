@@ -70,7 +70,7 @@ libraries with novel use of new C++ features.
 * [abseil](https://abseil.io/) - Abseil Common Libraries.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
-* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
+* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
@@ -97,7 +97,7 @@ libraries with novel use of new C++ features.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
-* [mstch](https://github.com/no1msd/mstch) -  A implementation of Mustache templates using modern C++.
+* [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
@@ -111,7 +111,7 @@ libraries with novel use of new C++ features.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
-* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Zero overhead C++14 wrapper for sqlite3.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
@@ -170,7 +170,7 @@ libraries with novel use of new C++ features.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
 ## Podcasts
-* [CppCast](http://cppcast.com/) - Podcast happening in and aroud C++.
+* [CppCast](http://cppcast.com/) - Podcast happening in and around C++.
 
 
 ## About
