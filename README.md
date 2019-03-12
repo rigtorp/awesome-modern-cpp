@@ -52,6 +52,7 @@ For a comprehensive guide to C++ books see the
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
 * [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
+* [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
 
 ## Conferences
 
