@@ -122,7 +122,8 @@ libraries with novel use of new C++ features.
 * [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
 * [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
-
+* [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
+  
 ## Websites
 
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
