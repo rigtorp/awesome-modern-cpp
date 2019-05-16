@@ -108,6 +108,8 @@ libraries with novel use of new C++ features.
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
+* [rest_rpc](https://github.com/qicosmos/rest_rpc) - A header only C++11 high performance and easy to use rpc framework.
+
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
