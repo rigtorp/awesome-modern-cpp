@@ -82,6 +82,7 @@ libraries with novel use of new C++ features.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
+* [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
 * [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
