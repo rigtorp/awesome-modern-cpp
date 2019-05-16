@@ -88,7 +88,8 @@ libraries with novel use of new C++ features.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
-* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header 
+* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
+* [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
