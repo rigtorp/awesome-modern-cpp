@@ -160,6 +160,7 @@ libraries with novel use of new C++ features.
 ## Tools
 
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
+* [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
