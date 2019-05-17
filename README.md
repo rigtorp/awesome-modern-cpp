@@ -172,7 +172,7 @@ libraries with novel use of new C++ features.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
 ## Podcasts
-* [CppCast](http://cppcast.com/) - Podcast happening in and around C++.
+* [CppCast](http://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - Podcast happening in and around C++.
 * [Cpp.chat](http://slashslash.info/cppchat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Cpp.chat.
 
 ## About
