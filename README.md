@@ -75,7 +75,7 @@ libraries with novel use of new C++ features.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
-* [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
+* [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
 * [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework.
