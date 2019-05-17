@@ -114,7 +114,6 @@ libraries with novel use of new C++ features.
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
-* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Zero overhead C++14 wrapper for sqlite3.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
