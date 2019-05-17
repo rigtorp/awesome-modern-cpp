@@ -173,7 +173,7 @@ libraries with novel use of new C++ features.
 
 ## Podcasts
 * [CppCast](http://cppcast.com/) - Podcast happening in and around C++.
-* [Cpp.chat](http://slashslash.info/cppchat/) - Cpp.chat.
+* [Cpp.chat](http://slashslash.info/cppchat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](slashslash.info/cppchat/)) - Cpp.chat.
 
 ## About
 
