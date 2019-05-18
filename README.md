@@ -91,7 +91,8 @@ libraries with novel use of new C++ features.
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
-* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header 
+* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
+* [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
 * [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
