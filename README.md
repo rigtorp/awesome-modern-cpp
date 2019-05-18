@@ -24,6 +24,7 @@ To add, remove or change things on the list:
 
 ## Books
 
+* [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) [C++11/17/20]
 * [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
 * [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
 * [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
@@ -70,26 +71,29 @@ libraries with novel use of new C++ features.
 
 * [abseil](https://abseil.io/) - Abseil Common Libraries.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
-* [Bandit](http://banditcpp.org/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Bandit](http://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
 * [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
-* [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
+* [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
 * [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
+* [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
 * [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 * [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
+* [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
 * [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
+* [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
@@ -115,7 +119,6 @@ libraries with novel use of new C++ features.
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
-* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Zero overhead C++14 wrapper for sqlite3.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
@@ -161,6 +164,7 @@ libraries with novel use of new C++ features.
 ## Tools
 
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
+* [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
@@ -174,8 +178,8 @@ libraries with novel use of new C++ features.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
 ## Podcasts
-* [CppCast](http://cppcast.com/) - Podcast happening in and around C++.
-
+* [CppCast](http://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - Podcast happening in and around C++.
+* [Cpp.chat](http://slashslash.info/cppchat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Cpp.chat.
 
 ## About
 
