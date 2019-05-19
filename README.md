@@ -58,9 +58,11 @@ For a comprehensive guide to C++ books see the
 ## Conferences
 
 * [ACCU](http://accu.org/index.php/conferences) - The Conference for Developers.
-* [C++ Now](http://cppnow.org/) - A gathering of C++ experts and enthusiasts.
-* [CppCon](http://cppcon.org/) - The C++ Conference.
-* [Meeting C++](http://meetingcpp.com/) - A independent C++ Conference.
+* [C++ CoreHard](http://conference.corehard.by/) (Minsk 🇧🇾)
+* [C++ Now](http://cppnow.org/) (Aspen, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg), [Twitter](https://twitter.com/cppnow)) - A gathering of C++ experts and enthusiasts.
+* [Core C++](https://corecpp.org/) (Tel-Aviv 🇮🇱)
+* [CppCon](http://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
+* [Meeting C++](http://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
 
 ## Libraries
 
