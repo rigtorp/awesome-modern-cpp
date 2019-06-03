@@ -108,6 +108,7 @@ libraries with novel use of new C++ features.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
+* [Monster](https://github.com/deepgrace/monster) - Advanced C++ Template MetaProgramming Framework.
 * [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
