@@ -107,6 +107,7 @@ libraries with novel use of new C++ features.
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
+* [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
 * [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
