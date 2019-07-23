@@ -122,6 +122,7 @@ libraries with novel use of new C++ features.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
+* [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
