@@ -148,6 +148,8 @@ libraries with novel use of new C++ features.
 * [CppCast](http://www.cppcast.com) - The only podcast for C++ developers by C++ developers.
 * [Stackoverflow C++11](http://stackoverflow.com/questions/tagged/c%2b%2b11)
 * [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14)
+* [Stackoverflow C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17)
+* [Stackoverflow C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20)
 * [Stackoverflow C++](http://stackoverflow.com/questions/tagged/c%2b%2b)
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 
