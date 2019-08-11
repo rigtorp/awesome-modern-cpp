@@ -74,17 +74,10 @@ libraries. It is a list of high-quality modern libraries with general
 applicability (serialization, database, testing, etc) or high-quality
 libraries with novel use of new C++ features.
 
-* [abseil](https://abseil.io/) - Abseil Common Libraries.
-* [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
-* [Bandit](http://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
-* [Boost.Hana](http://boostorg.github.io/hana/) - Your standard library for metaprogramming.
-* [Boost](http://www.boost.org/) - Collection of C++ libraries.
 * [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
 * [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
-* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
-* [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
@@ -101,7 +94,6 @@ libraries with novel use of new C++ features.
 * [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
 * [Fakeit](https://github.com/eranpeer/FakeIt) - A C++11 based simple mocking framework
 * [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
-* [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
 * [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
@@ -113,7 +105,6 @@ libraries with novel use of new C++ features.
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
 * [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
-* [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
 * [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
@@ -121,7 +112,6 @@ libraries with novel use of new C++ features.
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
-* [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
 * [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
@@ -137,12 +127,44 @@ libraries with novel use of new C++ features.
 * [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
 * [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
   
+
+### Kitchensink / Framework
+
+* [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [Boost](http://www.boost.org/) - Collection of C++ libraries.
+* [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
+* [POCO](https://pocoproject.org/) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+
+### Testing
+
+* [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) - Native ApprovalTests for C++ on Linux, Mac and Windows.
+* [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
+* [Bandit](http://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Boost.Test](https://www.boost.org/doc/libs/1_70_0/libs/test/doc/html/index.html) - Boost testing framework.
+* [Catch](https://github.com/catchorg/Catch2)🔥 - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
+* [doctest](https://github.com/onqtam/doctest)🚀 - 
+* [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
+* [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
+The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
+
+### Benchmarking
+
+Libraries and frameworks for creating micro-benchmarks.
+
+* [Celero](https://github.com/DigitalInBlue/Celero) - 
+C++ Benchmark Authoring Library/Framework.
+* [Google Benchmark](https://github.com/google/benchmark)⭐ - A microbenchmark support library.
+* [hayai](https://github.com/nickbruun/hayai) - the C++ benchmarking framework.
+* [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
+C++ Benchmark Authoring Library/Framework.
+
+
 ## Websites
 
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
-* [C++ reference](https://en.cppreference.com/w/) - 🔥 C++ reference.
-* [C++ Subreddit](https://www.reddit.com/r/cpp) - 🌟 Discussions, articles, and news about the C++ programming language.
+* [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
+* [C++ Subreddit](https://www.reddit.com/r/cpp)🌟 - Discussions, articles, and news about the C++ programming language.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
 * [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
@@ -169,22 +191,42 @@ libraries with novel use of new C++ features.
 
 ## Tools
 
+### Misc
+
+* [clang-format](http://clang.llvm.org/docs/ClangFormat.html)⭐ - A tool to format C++ code.
+* [clangd](https://clang.llvm.org/extra/clangd/) - understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
+* [CMake](https://cmake.org/)⭐ - Cross-platform family of tools designed to build, test and package software.
+* [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
+* [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
+* [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
+* [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
+ 
+
+### [Dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+
+* [sanitizers](https://github.com/google/sanitizers)⭐ - This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, and more.
+* [Valgrind](http://www.valgrind.org/) - is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
+
+### [Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+
+* [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
+* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/)⭐ - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
+* [clang-analyzer](https://clang.llvm.org/docs/ClangStaticAnalyzer.html) - is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. It implements path-sensitive, inter-procedural analysis based on symbolic execution technique.
+
+### [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
+
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
+* [hongfuzz](http://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
+* [libFuzzer](https://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing.
+
+### [Package management](https://en.wikipedia.org/wiki/Package_manager)
+
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
 * [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
-* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
-* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
-* [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
-* [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [CPM](https://github.com/TheLartians/CPM) - A CMake script for setup-free cross-plattform dependency management.
-* [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
-* [hongfuzz](http://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
-* [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
-* [libFuzzer](https://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing.
-* [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 * [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## Podcasts
