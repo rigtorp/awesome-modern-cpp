@@ -31,6 +31,7 @@ To add, remove or change things on the list:
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
 * [C++ Concurrency in Action](http://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
 * [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/) (Frank B. Brokken) [C++11/14/17]
+* [C++17 - The Complete Guide](http://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17
 * [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott)
 
 For a comprehensive guide to C++ books see the
