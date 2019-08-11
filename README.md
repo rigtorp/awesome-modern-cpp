@@ -223,6 +223,7 @@ C++ Benchmark Authoring Library/Framework.
 ### [Package management](https://en.wikipedia.org/wiki/Package_manager)
 
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
+* [build2](https://build2.org/) - is a cross-platform build toolchain for developing and packaging C and C++ code.
 * [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [conan](https://www.conan.io/) - C/C++ package manager.
