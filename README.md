@@ -175,17 +175,19 @@ libraries with novel use of new C++ features.
 
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
+* [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C++ code.
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - A clang-based C++ "linter" and static analysis tool.
 * [CMake](https://cmake.org/) - Cross-platform family of tools designed to build, test and package software.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [conan](https://www.conan.io/) - C/C++ package manager.
-* [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
-* [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [CPM](https://github.com/TheLartians/CPM) - A CMake script for setup-free cross-plattform dependency management.
+* [cppcheck](http://cppcheck.sourceforge.net/) - Static analysis of C/C++ code.
+* [hongfuzz](http://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
 * [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
+* [libFuzzer](https://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 * [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
