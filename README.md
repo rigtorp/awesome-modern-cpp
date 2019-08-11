@@ -40,9 +40,11 @@ For a comprehensive guide to C++ books see the
 ## Blogs
 
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
+* [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
 * [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
 * [Embedded in Academia](http://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
 * [Eric Niebler](http://ericniebler.com/)
+* [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
 * [Guru of the Week (new posts)](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Guru of the Week (older posts)](http://www.gotw.ca/gotw/) - Older Guru of the Week posts.
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com/)
@@ -54,8 +56,6 @@ For a comprehensive guide to C++ books see the
 * [The View from Aristeia](http://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
-* [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
-* [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
 
 ## Conferences
 
