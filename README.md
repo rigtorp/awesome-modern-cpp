@@ -204,7 +204,6 @@ C++ Benchmark Authoring Library/Framework.
 
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
 * [clangd](https://clang.llvm.org/extra/clangd/) - understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
-* [CMake](https://cmake.org/)⭐ - Cross-platform family of tools designed to build, test and package software.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
@@ -227,10 +226,15 @@ C++ Benchmark Authoring Library/Framework.
 * [hongfuzz](http://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
 * [libFuzzer](https://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing.
 
+### [Build system](https://en.wikipedia.org/wiki/Build_automation)
+
+* [build2](https://build2.org/) - is a cross-platform build toolchain for developing and packaging C and C++ code.
+* [CMake](https://cmake.org/) 🌟 - Cross-platform family of tools designed to build, test and package software.
+* [Meson](https://mesonbuild.com/) - is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
+
 ### [Package management](https://en.wikipedia.org/wiki/Package_manager)
 
 * [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Fully Decentralized Polyglot Package Manager for C++ and Friends
-* [build2](https://build2.org/) - is a cross-platform build toolchain for developing and packaging C and C++ code.
 * [C++ Archive Network](https://cppan.org/) - CPPAN - Cross-platform C/C++ package manager.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [conan](https://www.conan.io/) - C/C++ package manager.
