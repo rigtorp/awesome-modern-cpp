@@ -192,7 +192,7 @@ Libraries and frameworks for creating micro-benchmarks.
 
 * [Celero](https://github.com/DigitalInBlue/Celero) - 
 C++ Benchmark Authoring Library/Framework.
-* [Google Benchmark](https://github.com/google/benchmark)⭐ - A microbenchmark support library.
+* [Google Benchmark](https://github.com/google/benchmark) 🌟 - A microbenchmark support library.
 * [hayai](https://github.com/nickbruun/hayai) - the C++ benchmarking framework.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
 C++ Benchmark Authoring Library/Framework.
@@ -202,7 +202,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### Misc
 
-* [clang-format](http://clang.llvm.org/docs/ClangFormat.html)⭐ - A tool to format C++ code.
+* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
 * [clangd](https://clang.llvm.org/extra/clangd/) - understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
 * [CMake](https://cmake.org/)⭐ - Cross-platform family of tools designed to build, test and package software.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
@@ -210,16 +210,15 @@ C++ Benchmark Authoring Library/Framework.
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
  
-
 ### [Dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 
-* [sanitizers](https://github.com/google/sanitizers)⭐ - This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, and more.
+* [sanitizers](https://github.com/google/sanitizers) 🌟 - This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, and more.
 * [Valgrind](http://www.valgrind.org/) - is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
 
 ### [Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 
 * [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
-* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/)⭐ - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
+* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) 🌟 - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
 * [clang-analyzer](https://clang.llvm.org/docs/ClangStaticAnalyzer.html) - is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. It implements path-sensitive, inter-procedural analysis based on symbolic execution technique.
 
 ### [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
