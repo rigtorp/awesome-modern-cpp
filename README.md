@@ -190,6 +190,7 @@ libraries with novel use of new C++ features.
 ## Podcasts
 * [CppCast](http://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
 * [Cpp.chat](http://slashslash.info/cppchat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
+* [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
 
 ## About
 
