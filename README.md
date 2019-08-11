@@ -139,17 +139,13 @@ libraries with novel use of new C++ features.
   
 ## Websites
 
-* [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
-* [C++ Subreddit](https://www.reddit.com/r/cpp) - Discussions, articles, and news about the C++ programming language.
+* [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
+* [C++ reference](https://en.cppreference.com/w/) - 🔥 C++ reference.
+* [C++ Subreddit](https://www.reddit.com/r/cpp) - 🌟 Discussions, articles, and news about the C++ programming language.
 * [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
-* [C++ reference](http://en.cppreference.com/w/) - C++ reference.
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
-* [Stackoverflow C++11](http://stackoverflow.com/questions/tagged/c%2b%2b11)
-* [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14)
-* [Stackoverflow C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17)
-* [Stackoverflow C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20)
-* [Stackoverflow C++](http://stackoverflow.com/questions/tagged/c%2b%2b)
+* [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 
 ## Talks
