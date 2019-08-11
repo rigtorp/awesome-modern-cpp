@@ -115,64 +115,13 @@ applicability (serialization, database, testing, etc) or high-quality
 libraries with novel use of new C++ features.
 
   
-* [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
-* [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
-* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
-* [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
-* [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
-* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
-* [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
-* [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
-* [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
-* [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
-* [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
-* [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
-* [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
-* [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework.
-* [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
-* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
-* [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
-* [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
-* [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
-* [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
-* [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
-* [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
-* [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
-* [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
-* [json](https://github.com/nlohmann/json) - JSON for Modern C++.
-* [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
-* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
-* [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
-* [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
-* [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
-* [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
-* [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
-* [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
-* [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
-* [pistache](http://pistache.io/) - An elegant C++ REST framework.
-* [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
-* [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
-* [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
-* [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
-* [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
-* [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
-* [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
-* [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
-* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
-* [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
-* [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
-* [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
-* [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
-* [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
-* [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
-* [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
-
 ### Kitchensink / Framework
 
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [Boost](http://www.boost.org/) - Collection of C++ libraries.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [POCO](https://pocoproject.org/) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+* [nonstd-lite](https://github.com/martinmoene/nonstd-lite) - Parent of *-lite repositories, a migration path to post-C++11 features for pre-C++11 environments
 
 ### Testing
 
@@ -197,6 +146,74 @@ C++ Benchmark Authoring Library/Framework.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
 C++ Benchmark Authoring Library/Framework.
 
+### Serialization
+
+* [json](https://github.com/nlohmann/json) - JSON for Modern C++.
+* [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
+* [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
+* [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+
+### String formatting & templating
+
+* [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
+* [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
+* [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
+* [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
+* [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
+
+### Scripting
+
+* [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
+* [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
+* [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
+
+### Web / HTTP
+
+* [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
+* [cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+* [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
+* [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
+* [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
+* [pistache](http://pistache.io/) - An elegant C++ REST framework.
+* [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
+
+### Database
+
+* [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
+* [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
+* [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
+* [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
+
+### Misc
+
+* [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
+* [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
+* [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
+* [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
+* [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
+* [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
+* [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
+* [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
+* [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
+* [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
+* [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
+* [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
+* [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
+* [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
+* [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
+* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
+* [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
+* [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
+* [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
+* [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
+* [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
+* [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
+* [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
+* [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
+* [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 
 ## Tools
 
