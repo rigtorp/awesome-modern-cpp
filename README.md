@@ -159,7 +159,6 @@ C++ Benchmark Authoring Library/Framework.
 
 * [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
 * [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
-* [mstch](https://github.com/no1msd/mstch) -  An implementation of Mustache templates using modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 
@@ -200,8 +199,7 @@ C++ Benchmark Authoring Library/Framework.
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
-* [fixed_size_function](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function.
-* [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C\++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
+* [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
