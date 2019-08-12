@@ -98,6 +98,7 @@ TODO curate list of good talks on how to simplify code using C++11/17/20 feature
 
 ### Websites
 
+* [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/) - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
@@ -146,6 +147,19 @@ C++ Benchmark Authoring Library/Framework.
 * [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
 C++ Benchmark Authoring Library/Framework.
 
+### Logging
+
+* [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+
+### Threading
+
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
+* [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
+* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
+* [MPMCQueue](https://github.com/rigtorp/MPMCQueue) - A bounded multi-producer multi-consumer lock-free queue written in C++11.
+* [SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.
+* [Threading Building Blocks](https://www.threadingbuildingblocks.org/) - Threading Building Blocks (TBB) is a C++ template library developed by Intel for parallel programming on multi-core processors. Using TBB, a computation is broken down into tasks that can run in parallel. The library manages and schedules threads to execute these tasks.
+
 ### Serialization
 
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
@@ -193,7 +207,6 @@ C++ Benchmark Authoring Library/Framework.
 * [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 * [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
-* [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
 * [cxxopts](https://github.com/jarro2783/cxxopts) -  Lightweight C++ command line option parser.
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header.
@@ -202,7 +215,6 @@ C++ Benchmark Authoring Library/Framework.
 * [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
-* [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
 * [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
