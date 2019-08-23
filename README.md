@@ -222,6 +222,7 @@ C++ Benchmark Authoring Library/Framework.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
+* [SRL-CPP](https://github.com/ron4fun/SRL-CPP) - A Simple Regex Language builder library written in C++11 that provides an easy to use interface for constructing both simple and complex regex expressions. [MIT]
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
 * [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 
