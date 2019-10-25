@@ -72,7 +72,6 @@ TODO curate list of good talks on how to simplify code using C++11/17/20 feature
 * [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4)
 * [Going Native 2013: Sean Parent - "C++ Seasoning"](https://www.youtube.com/watch?v=qH6sSOr-yk8)
 
-
 ### Blogs
 
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
