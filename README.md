@@ -249,6 +249,7 @@ C++ Benchmark Authoring Library/Framework.
 * [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) 🌟 - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
 * [clang-analyzer](https://clang.llvm.org/docs/ClangStaticAnalyzer.html) - is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. It implements path-sensitive, inter-procedural analysis based on symbolic execution technique.
+* [SmartDec Scanner](https://smartdecscanner.com/) - Static app code analyzer which is capable of identifying vulnerabilities and backdoors (undocumented features). The analyzer scans the source code and executables without debug info (i.e. binaries). The analyzer leverages 10+ analysis methods. Supports 31 programming languages, including C, C++, C#, and Objective-C.
 
 ### [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
 
