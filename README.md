@@ -269,7 +269,7 @@ C++ Benchmark Authoring Library/Framework.
 * [cget](https://github.com/pfultz2/cget) - CMake package retrieval.
 * [conan](https://www.conan.io/) - C/C++ package manager.
 * [CPM](https://github.com/TheLartians/CPM) - A CMake script for setup-free cross-plattform dependency management.
-* [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++.
+* [Hunter](https://github.com/cpp-pm/hunter) - Cross-platform package manager for C++.
 * [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## About
