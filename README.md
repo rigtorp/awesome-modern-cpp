@@ -47,7 +47,7 @@ For a comprehensive guide to C++ books see the
 * [C++ on Sea](https://cpponsea.uk/) (Folkestone, Kent 🇬🇧, [YouTube](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw), [Twitter](https://twitter.com/cpponsea)) - The international C++ conference in the UK, by the sea.
 * [Core C++](https://corecpp.org/) (Tel-Aviv 🇮🇱)
 * [CppCon](http://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
-* [Meeting C++](http://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
+* [Meeting C++](https://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
 
 ### Talks
 
@@ -95,7 +95,7 @@ TODO curate list of good talks on how to simplify code using C++11/17/20 feature
 ### Podcasts
 
 * [CppCast](http://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
-* [Cpp.chat](http://slashslash.info/cppchat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
+* [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
 * [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
 
 ### Websites
@@ -174,7 +174,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### String formatting & templating
 
-* [{fmt}](https://fmtlib.net) - Small, safe and fast formatting library.
+* [{fmt}](https://fmt.dev) - Small, safe and fast formatting library.
 * [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
