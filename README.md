@@ -228,6 +228,7 @@ C++ Benchmark Authoring Library/Framework.
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
 * [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++.
+* [AssociatedEnum](https://github.com/Alkenso/asenum) - header-only library for C++ for enumerations with associated values.
 
 ## Tools
 
