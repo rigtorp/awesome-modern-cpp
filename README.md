@@ -65,8 +65,8 @@ TODO curate list of good talks on how to simplify code using C++11/17/20 feature
 * [CppCon 2017: Jason Turner "Practical C++17"](https://www.youtube.com/watch?v=nnY4e4faNp0)
 * [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
 * [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k) ([slides](http://codedive.pl/wp-content/uploads/2016/01/FastCode-handouts.pdf))
-* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M) ([slides](http://codedive.pl/wp-content/uploads/2016/01/FastCode-handouts.pdf))
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k) ([slides](https://cdn2-ecros.pl/event/codedive/files/presentations/2015/FastCode-handouts.pdf))
+* [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M) ([slides](https://cdn2-ecros.pl/event/codedive/files/presentations/2015/FastCode-handouts.pdf))
 * [C++Now Talks](https://www.youtube.com/user/BoostCon/playlists) - Talks from the C++Now conference.
 * [Going Native 2012: Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
 * [Going Native 2013: Stephan T Lavavej - "Don't Help the Compiler"](https://www.youtube.com/watch?v=AKtHxKJRwp4)
