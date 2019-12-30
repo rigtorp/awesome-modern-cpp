@@ -146,7 +146,7 @@ Libraries and frameworks for creating micro-benchmarks.
 C++ Benchmark Authoring Library/Framework.
 * [Google Benchmark](https://github.com/google/benchmark) 🌟 - A microbenchmark support library.
 * [hayai](https://github.com/nickbruun/hayai) - the C++ benchmarking framework.
-* [Nonius](https://nonius.io/) - A C++ micro-benchmarking framework.
+* [Nonius](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework.
 C++ Benchmark Authoring Library/Framework.
 
 ### Logging
