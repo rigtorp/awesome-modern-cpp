@@ -263,6 +263,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### [Build system](https://en.wikipedia.org/wiki/Build_automation)
 
+* [Bazel](https://bazel.build/) - is a fast, scalable, multi-language and extensible build system.
 * [build2](https://build2.org/) - is a cross-platform build toolchain for developing and packaging C and C++ code.
 * [CMake](https://cmake.org/) 🌟 - Cross-platform family of tools designed to build, test and package software.
 * [Meson](https://mesonbuild.com/) - is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
