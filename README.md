@@ -236,6 +236,7 @@ C++ Benchmark Authoring Library/Framework.
 * [AssociatedEnum](https://github.com/Alkenso/asenum) - header-only library for C++ for enumerations with associated values.
 * [openFrameworks](https://openframeworks.cc/) - an open source C++ toolkit for creative coding.
 * [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Pitchfork is a Set of C++ Project Conventions.  
+* [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
 
 ## Tools
 
