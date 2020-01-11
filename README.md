@@ -51,7 +51,10 @@ For a comprehensive guide to C++ books see the
 
 ### Talks
 
+
 TODO curate list of good talks on how to simplify code using C++11/17/20 features
+
+Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.cjdb.com.au/sg20-and-videos).
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
 * [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ)
@@ -109,6 +112,7 @@ TODO curate list of good talks on how to simplify code using C++11/17/20 feature
 * [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
 * [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
+* [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/) - The proposed changes to the C++ standard.
 
 ## Libraries
 
