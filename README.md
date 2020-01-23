@@ -224,6 +224,7 @@ C++ Benchmark Authoring Library/Framework.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
+* [Wise Enum](https://github.com/quicknir/wise_enum) - Static reflection for enums similar to Magic Enum but works with C++ 11/14/17. 
 * [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
