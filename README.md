@@ -183,6 +183,7 @@ C++ Benchmark Authoring Library/Framework.
 * [Inja](https://github.com/pantor/inja) - A Template Engine for Modern C++.
 * [Mustache](https://github.com/kainjow/Mustache) - Mustache text templates in C++11.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
+* [pprint](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++.
 
 ### Scripting
 
