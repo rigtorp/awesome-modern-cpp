@@ -48,6 +48,7 @@ For a comprehensive guide to C++ books see the
 * [Core C++](https://corecpp.org/) (Tel-Aviv 🇮🇱)
 * [CppCon](http://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
 * [Meeting C++](https://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
+* [C/C++ Brasil](http://ccppbrasil.github.io/) (Brazil 🇧🇷, [YouTube](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg), [Twitter](https://twitter.com/ccppbrasil)) - The C/C++ Users Group in Brazil.
 
 ### Talks
 
