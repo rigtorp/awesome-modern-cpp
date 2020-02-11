@@ -201,6 +201,7 @@ C++ Benchmark Authoring Library/Framework.
 * [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
 * [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
+* [megaphone](https://github.com/bitwyre/megaphone) - Megaphone distributes events to many web browsers
 
 ### Database
 
