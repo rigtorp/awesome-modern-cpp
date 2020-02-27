@@ -172,6 +172,7 @@ C++ Benchmark Authoring Library/Framework.
 
 * [json](https://github.com/nlohmann/json) - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* [toml++](https://github.com/marzer/tomlplusplus) - A header-only C++17 library for parsing TOML v0.5.0 and later.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
