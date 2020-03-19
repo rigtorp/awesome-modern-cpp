@@ -249,7 +249,8 @@ C++ Benchmark Authoring Library/Framework.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
 * [clangd](https://clang.llvm.org/extra/clangd/) - understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
-* [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
+* [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more (No more commits since Nov 27, 2018)
+* [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting, forked from cquery, which is under active development
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
  
