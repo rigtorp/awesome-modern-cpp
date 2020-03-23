@@ -16,39 +16,39 @@ To add, remove or change things on the list:
 ## Best Practices
 
 - Consider the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
-- Never manually format code, use [clang-format](http://clang.llvm.org/docs/ClangFormat.html).
+- Never manually format code, use [clang-format](https://clang.llvm.org/docs/ClangFormat.html).
 - Build your code using [CMake](https://cmake.org/).
 - Test your code using [Catch](https://github.com/catchorg/Catch2).
 - Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
-- Use a fuzzer to test untrusted input: [afl](http://lcamtuf.coredump.cx/afl/), [libFuzzer](http://llvm.org/docs/LibFuzzer.html), [KLEE](http://klee.github.io/).
+- Use a fuzzer to test untrusted input: [afl](https://lcamtuf.coredump.cx/afl/), [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [KLEE](https://klee.github.io/).
 
 ## Books
 
 * [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) [C++11/17/20]
-* [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
-* [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
-* [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
+* [The C++ Programming Language](https://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
+* [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
+* [Overview of the New C++](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
-* [C++ Concurrency in Action](http://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
+* [C++ Concurrency in Action](https://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
 * [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/) (Frank B. Brokken) [C++11/14/17]
-* [C++17 - The Complete Guide](http://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17
+* [C++17 - The Complete Guide](https://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17
 * [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott)
 
 For a comprehensive guide to C++ books see the
-[Stackoverflow Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
+[Stackoverflow Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
 
 ## Community
 
 ### Conferences
 
-* [ACCU](http://accu.org/index.php/conferences) - The Conference for Developers.
-* [C++ CoreHard](http://conference.corehard.by/) (Minsk 🇧🇾, [Telegram](https://t.me/corehard_by)) - conference dedicated to C++ and related hardcore technologies. 
-* [C++ Now](http://cppnow.org/) (Aspen, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg), [Twitter](https://twitter.com/cppnow)) - A gathering of C++ experts and enthusiasts.
+* [ACCU](https://accu.org/index.php/conferences) - The Conference for Developers.
+* [C++ CoreHard](https://conference.corehard.by/) (Minsk 🇧🇾, [Telegram](https://t.me/corehard_by)) - conference dedicated to C++ and related hardcore technologies. 
+* [C++ Now](https://cppnow.org/) (Aspen, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg), [Twitter](https://twitter.com/cppnow)) - A gathering of C++ experts and enthusiasts.
 * [C++ on Sea](https://cpponsea.uk/) (Folkestone, Kent 🇬🇧, [YouTube](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw), [Twitter](https://twitter.com/cpponsea)) - The international C++ conference in the UK, by the sea.
 * [Core C++](https://corecpp.org/) (Tel-Aviv 🇮🇱)
-* [CppCon](http://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
+* [CppCon](https://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
 * [Meeting C++](https://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
-* [C/C++ Brasil](http://ccppbrasil.github.io/) (Brazil 🇧🇷, [YouTube](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg), [Twitter](https://twitter.com/ccppbrasil)) - The C/C++ Users Group in Brazil.
+* [C/C++ Brasil](https://ccppbrasil.github.io/) (Brazil 🇧🇷, [YouTube](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg), [Twitter](https://twitter.com/ccppbrasil)) - The C/C++ Users Group in Brazil.
 
 ### Talks
 
@@ -68,7 +68,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [CppCon 2016: Herb Sutter "Leak-Freedom in C++... By Default."](https://youtu.be/JfmTagWcqoE)
 * [CppCon 2017: Jason Turner "Practical C++17"](https://www.youtube.com/watch?v=nnY4e4faNp0)
 * [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
-* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) ([slides](http://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
+* [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) ([slides](https://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf))
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code I](https://www.youtube.com/watch?v=vrfYLlR8X8k) ([slides](https://cdn2-ecros.pl/event/codedive/files/presentations/2015/FastCode-handouts.pdf))
 * [code::dive conference 2015 - Andrei Alexandrescu - Writing Fast Code II](https://www.youtube.com/watch?v=9tvbz8CSI8M) ([slides](https://cdn2-ecros.pl/event/codedive/files/presentations/2015/FastCode-handouts.pdf))
 * [C++Now Talks](https://www.youtube.com/user/BoostCon/playlists) - Talks from the C++Now conference.
@@ -81,24 +81,24 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
 * [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
-* [Embedded in Academia](http://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
+* [Embedded in Academia](https://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
 * [Eric Niebler](http://ericniebler.com/)
 * [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
-* [Guru of the Week (new posts)](http://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
+* [Guru of the Week (new posts)](https://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Guru of the Week (older posts)](http://www.gotw.ca/gotw/) - Older Guru of the Week posts.
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com/)
-* [Paul Fultz II's Blog](http://pfultz2.com/blog/)
-* [Preshing on Programming](http://preshing.com/)
-* [Simplify C++](http://arne-mertz.de/) - Write clean and maintainable C++.
+* [Paul Fultz II's Blog](https://pfultz2.com/blog/)
+* [Preshing on Programming](https://preshing.com/)
+* [Simplify C++](https://arne-mertz.de/) - Write clean and maintainable C++.
 * [Sticky Bits](https://blog.feabhas.com/) - A blog looking at developing software for real-time and embedded systems.
-* [Sutter's Mill](http://herbsutter.com/) - Herb Sutter on software development.
-* [The View from Aristeia](http://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
+* [Sutter's Mill](https://herbsutter.com/) - Herb Sutter on software development.
+* [The View from Aristeia](https://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
 
 ### Podcasts
 
-* [CppCast](http://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
+* [CppCast](https://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
 * [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
 * [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
 
@@ -126,7 +126,7 @@ libraries with novel use of new C++ features.
 ### Kitchensink / Framework
 
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
-* [Boost](http://www.boost.org/) - Collection of C++ libraries.
+* [Boost](https://www.boost.org/) - Collection of C++ libraries.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [POCO](https://pocoproject.org/) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [nonstd-lite](https://github.com/martinmoene/nonstd-lite) - Parent of *-lite repositories, a migration path to post-C++11 features for pre-C++11 environments.
@@ -135,7 +135,7 @@ libraries with novel use of new C++ features.
 
 * [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) - Native ApprovalTests for C++ on Linux, Mac and Windows.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
-* [Bandit](http://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
+* [Bandit](https://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [Boost.Test](https://www.boost.org/doc/libs/1_70_0/libs/test/doc/html/index.html) - Boost testing framework.
 * [Catch](https://github.com/catchorg/Catch2) 🔥 - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [doctest](https://github.com/onqtam/doctest) 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
@@ -190,7 +190,7 @@ C++ Benchmark Authoring Library/Framework.
 ### Scripting
 
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
-* [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
+* [ChaiScript](https://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 
 ### Web / HTTP
@@ -215,7 +215,7 @@ C++ Benchmark Authoring Library/Framework.
 
 * [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
-* [CAF](http://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
+* [CAF](https://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 * [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
@@ -246,7 +246,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### Misc
 
-* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
+* [clang-format](https://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
 * [clangd](https://clang.llvm.org/extra/clangd/) - understands your C++ code and adds smart features to your editor: code completion, compile errors, go-to-definition and more.
 * [Compiler Explorer](https://gcc.godbolt.org/) - Interactively explore the assembly output of your C++ code.
 * [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more (No more commits since Nov 27, 2018)
@@ -257,18 +257,18 @@ C++ Benchmark Authoring Library/Framework.
 ### [Dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 
 * [sanitizers](https://github.com/google/sanitizers) 🌟 - This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, and more.
-* [Valgrind](http://www.valgrind.org/) - is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
+* [Valgrind](https://www.valgrind.org/) - is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
 
 ### [Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 
 * [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
-* [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) 🌟 - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
+* [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) 🌟 - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
 * [clang-analyzer](https://clang.llvm.org/docs/ClangStaticAnalyzer.html) - is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. It implements path-sensitive, inter-procedural analysis based on symbolic execution technique.
 
 ### [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
 
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
-* [hongfuzz](http://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
+* [American fuzzy lop](https://lcamtuf.coredump.cx/afl/) - American fuzzy lop is a security-oriented fuzzer.
+* [hongfuzz](https://honggfuzz.com/) - A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.
 * [libFuzzer](https://llvm.org/docs/LibFuzzer.html) - A library for coverage-guided fuzz testing.
 
 ### [Build system](https://en.wikipedia.org/wiki/Build_automation)
@@ -293,7 +293,7 @@ C++ Benchmark Authoring Library/Framework.
 This list was compiled by **Erik Rigtorp** with help from the C++
 community:
 
-* [rigtorp.se](http://rigtorp.se)
+* [rigtorp.se](https://rigtorp.se)
 * [erik@rigtorp.se](mailto:erik@rigtorp.se)
 * [github.com/rigtorp](https://github.com/rigtorp)
 * [twitter.com/rigtorp](https://twitter.com/rigtorp)
