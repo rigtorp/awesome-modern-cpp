@@ -210,6 +210,7 @@ C++ Benchmark Authoring Library/Framework.
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
+* [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
 
 ### Misc
 
