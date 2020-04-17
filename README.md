@@ -115,6 +115,10 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 * [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/) - The proposed changes to the C++ standard.
 
+## Starter templates
+
+* [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - A template for kick-starting modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
+
 ## Libraries
 
 This is not supposed to be a comprehensive list of all C and C++
