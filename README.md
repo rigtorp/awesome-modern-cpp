@@ -115,9 +115,10 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
 * [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/) - The proposed changes to the C++ standard.
 
-## Starter templates
+## Project Starter Templates
 
-* [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - A template for kick-starting modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
+* [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - A template for kick-starting modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.
+* [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Pitchfork is a Set of C++ Project Conventions.  
 
 ## Libraries
 
@@ -245,7 +246,6 @@ C++ Benchmark Authoring Library/Framework.
 * [indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++.
 * [AssociatedEnum](https://github.com/Alkenso/asenum) - header-only library for C++ for enumerations with associated values.
 * [openFrameworks](https://openframeworks.cc/) - an open source C++ toolkit for creative coding.
-* [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Pitchfork is a Set of C++ Project Conventions.  
 * [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
 
 ## Tools
