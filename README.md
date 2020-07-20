@@ -148,6 +148,7 @@ libraries with novel use of new C++ features.
 * [doctest](https://github.com/onqtam/doctest) 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [Fakeit](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 * [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
+* [Mull](https://github.com/mull-project/mull) - Practical mutation testing tool for C and C++
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
 
 ### Benchmarking
