@@ -27,6 +27,8 @@ To add, remove or change things on the list:
 * [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) [C++11/17/20]
 * [The C++ Programming Language](https://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
 * [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
+* [Exceptional C++] (https://www.amazon.in/Exceptional-Engineering-Programming-Addison-Wesley-Depth/dp/0201615622) (Herb Sutter)
+* [More Exceptional C++] (https://www.amazon.in/More-Exceptional-Engineering-Addison-Wesley-Depth/dp/020170434X) (Herb Sutter)
 * [Overview of the New C++](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
 * [C++ Concurrency in Action](https://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
