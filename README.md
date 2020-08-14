@@ -13,15 +13,6 @@ and leverage modern C++11 and beyond.
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/rigtorp/awesome-modern-cpp).
 
-## Best Practices
-
-- Consider the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
-- Never manually format code, use [clang-format](https://clang.llvm.org/docs/ClangFormat.html).
-- Build your code using [CMake](https://cmake.org/).
-- Test your code using [Catch](https://github.com/catchorg/Catch2).
-- Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
-- Use a fuzzer to test untrusted input: [afl](https://lcamtuf.coredump.cx/afl/), [libFuzzer](https://llvm.org/docs/LibFuzzer.html), [KLEE](https://klee.github.io/).
-
 ## Books
 
 * [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832/) (Bjarne Stroustrup) [C++11/17/20]
@@ -29,26 +20,47 @@ To add, remove or change things on the list:
 * [Effective Modern C++](https://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
 * [Overview of the New C++](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
-* [C++ Concurrency in Action](https://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
-* [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/) (Frank B. Brokken) [C++11/14/17]
-* [C++17 - The Complete Guide](https://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17
-* [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott)
+* [C++ Concurrency in Action](https://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Reference and guide to writing multi-threaded code with standard C++.
+* [C++17 - The Complete Guide](https://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17.
+* [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott) - A practical guide for using CMake to build your C++ projects.
 
 For a comprehensive guide to C++ books see the
 [Stackoverflow Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
 
 ## Community
 
-### Conferences
+Find the latest C++ news and updates:
+* [News, Status & Discussion about Standard C++](https://isocpp.org/).
 
-* [ACCU](https://accu.org/index.php/conferences) - The Conference for Developers.
-* [C++ CoreHard](https://conference.corehard.by/) (Minsk 🇧🇾, [Telegram](https://t.me/corehard_by)) - conference dedicated to C++ and related hardcore technologies. 
-* [C++ Now](https://cppnow.org/) (Aspen, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg), [Twitter](https://twitter.com/cppnow)) - A gathering of C++ experts and enthusiasts.
-* [C++ on Sea](https://cpponsea.uk/) (Folkestone, Kent 🇬🇧, [YouTube](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw), [Twitter](https://twitter.com/cpponsea)) - The international C++ conference in the UK, by the sea.
-* [Core C++](https://corecpp.org/) (Tel-Aviv 🇮🇱)
-* [CppCon](https://cppcon.org/) (Aurora, Colorado 🇺🇸, [YouTube](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg), [Twitter](https://twitter.com/cppcon)) - The C++ Conference.
-* [Meeting C++](https://meetingcpp.com/) (Berlin 🇩🇪, [YouTube](https://www.youtube.com/c/MeetingCPP), [Twitter](https://twitter.com/meetingcpp)) - A independent C++ Conference.
-* [C/C++ Brasil](https://ccppbrasil.github.io/) (Brazil 🇧🇷, [YouTube](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg), [Twitter](https://twitter.com/ccppbrasil)) - The C/C++ Users Group in Brazil.
+Listen to the latest C++ podcasts:
+* [CppCast](https://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
+* [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
+* [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
+
+Read the latest C++ standard proposals:
+* [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
+
+Discuss everything related to C++:
+* [r/cpp](https://www.reddit.com/r/cpp/) - The C++ subreddit.
+* [C++ Slack](https://cppalliance.org/slack/) - The C++ Slack workspace.
+* [CoreHard Telegram group](https://t.me/corehard_by).
+
+Ask your C++ questions:
+* [r/cpp_questions](https://www.reddit.com/r/cpp_questions) - A subreddit for C++ questions and answers.
+* [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
+
+Maybe your question was already answered in a FAQ?:
+* [C++ Super-FAQ](https://isocpp.org/faq).
+* [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html).
+
+Go to one of the many C++ conferences:
+* [List of upcoming and past C++ conferences](https://isocpp.org/wiki/faq/conferences-worldwide).
+
+Find C++ user groups:
+* [Meeting C++ list of user groups](https://meetingcpp.com/usergroups/).
+* [List of user groups in the C++ Super-FAQ](https://isocpp.org/wiki/faq/user-groups-worldwide).
+* [C/C++ meetups](https://www.meetup.com/topics/c/).
+* Search for channels starting with `#ug` in the [C++ Slack](https://cppalliance.org/slack/).
 
 ### Talks
 
@@ -80,7 +92,6 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
-* [C++ Hints](http://cpphints.com/) - Common mistakes and their solutions.
 * [Embedded in Academia](https://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
 * [Eric Niebler](http://ericniebler.com/)
 * [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
@@ -96,24 +107,11 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
 
-### Podcasts
-
-* [CppCast](https://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
-* [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
-* [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
-
 ### Websites
 
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/) - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
-* [C++ Questions Subreddit](https://www.reddit.com/r/cpp_questions) - A great place to get help.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
-* [C++ Subreddit](https://www.reddit.com/r/cpp)🌟 - Discussions, articles, and news about the C++ programming language.
-* [C++ Super-FAQ](https://isocpp.org/faq) - The C++ Super-FAQ.
-* [C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
-* [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
-* [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
-* [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/) - The proposed changes to the C++ standard.
 
 ## Project Starter Templates
 
