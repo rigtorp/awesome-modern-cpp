@@ -176,7 +176,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### Serialization
 
-* [json](https://github.com/nlohmann/json) - JSON for Modern C++.
+* [json](https://github.com/nlohmann/json) 🥇 - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * [toml++](https://github.com/marzer/tomlplusplus) - A header-only C++17 library for parsing TOML v0.5.0 and later.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
@@ -184,6 +184,7 @@ C++ Benchmark Authoring Library/Framework.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [simdjson](https://github.com/lemire/simdjson) - Accelerate the parsing of JSON per se using commonly available SIMD instructions
+* [Boost.JSON](https://github.com/CPPAlliance/json) - A JSON library with robust support for custom allocators.
 
 ### String formatting & templating
 
