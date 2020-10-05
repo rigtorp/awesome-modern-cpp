@@ -36,6 +36,7 @@ Listen to the latest C++ podcasts:
 * [CppCast](https://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
 * [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
 * [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
+* [CppCast](https://cppcast.com) - CppCast is the first podcast for C++ developers by C++ developers!
 
 Read the latest C++ standard proposals:
 * [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
@@ -106,12 +107,14 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [The View from Aristeia](https://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
+* [C++ Notes for Professionals book] (https://books.goalkicker.com/CPlusPlusBook/)
 
 ### Websites
 
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/) - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
+* [Learn C++](https://www.tutorialspoint.com/cplusplus/)
 
 ## Project Starter Templates
 
@@ -210,6 +213,7 @@ C++ Benchmark Authoring Library/Framework.
 * [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
 * [pistache](http://pistache.io/) - An elegant C++ REST framework.
 * [restbed](https://github.com/Corvusoft/restbed) - Restbed framework brings asynchronous RESTful functionality to C++11 applications.
+* [Learn C++ Web Programming](https://www.tutorialspoint.com/cplusplus/cpp_web_programming.htm)
 
 ### Database
 
@@ -219,6 +223,7 @@ C++ Benchmark Authoring Library/Framework.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
+* [SQLAPI++](https://www.sqlapi.com) - C++ library for interfacing with multiple SQL databases.
 
 ### Misc
 
