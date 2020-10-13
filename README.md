@@ -221,6 +221,10 @@ C++ Benchmark Authoring Library/Framework.
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
 * [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
 
+### BioC++
+
+* [SeqAn](https://github.com/seqan/seqan3.git) - The modern C++ library for sequence analysis (C++17, C++20).
+
 ### Misc
 
 * [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
