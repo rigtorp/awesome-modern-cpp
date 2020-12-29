@@ -174,6 +174,7 @@ C++ Benchmark Authoring Library/Framework.
 * [SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.
 * [Threading Building Blocks](https://www.threadingbuildingblocks.org/) - Threading Building Blocks (TBB) is a C++ template library developed by Intel for parallel programming on multi-core processors. Using TBB, a computation is broken down into tasks that can run in parallel. The library manages and schedules threads to execute these tasks.
 * [execq](https://github.com/Alkenso/execq) - Smart queue that executes tasks in threadpool-like manner (serial / concurrent) in C++11.
+* [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ### Serialization
 
