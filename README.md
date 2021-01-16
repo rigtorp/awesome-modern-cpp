@@ -113,6 +113,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/) - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
+* [C++ By Example](http://cbyexample.com) - Learn C++ by Example!
 
 ## Project Starter Templates
 
