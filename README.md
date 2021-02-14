@@ -113,6 +113,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/) - Collaborative Collection of C++ Best Practices.
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
+* [C++ references](https://www.hackerrank.com/domains/cpp) - For best coding practicie.
 
 ## Project Starter Templates
 
@@ -128,7 +129,7 @@ libraries. It is a list of high-quality modern libraries with general
 applicability (serialization, database, testing, etc) or high-quality
 libraries with novel use of new C++ features.
 
-  
+
 ### Kitchensink / Framework
 
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
@@ -154,7 +155,7 @@ libraries with novel use of new C++ features.
 
 Libraries and frameworks for creating micro-benchmarks.
 
-* [Celero](https://github.com/DigitalInBlue/Celero) - 
+* [Celero](https://github.com/DigitalInBlue/Celero) -
 C++ Benchmark Authoring Library/Framework.
 * [Google Benchmark](https://github.com/google/benchmark) 🌟 - A microbenchmark support library.
 * [hayai](https://github.com/nickbruun/hayai) - the C++ benchmarking framework.
@@ -242,7 +243,7 @@ C++ Benchmark Authoring Library/Framework.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
-* [Wise Enum](https://github.com/quicknir/wise_enum) - Static reflection for enums similar to Magic Enum but works with C++ 11/14/17. 
+* [Wise Enum](https://github.com/quicknir/wise_enum) - Static reflection for enums similar to Magic Enum but works with C++ 11/14/17.
 * [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
@@ -267,7 +268,7 @@ C++ Benchmark Authoring Library/Framework.
 * [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting, forked from cquery, which is under active development
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
- 
+
 ### [Dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 
 * [sanitizers](https://github.com/google/sanitizers) 🌟 - This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, and more.
@@ -275,7 +276,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### [Static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 
-* [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
+* [cppcheck](http://cppcheck.sourceforge.net/) - is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
 * [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) 🌟 - is a clang-based C++ “linter” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
 * [clang-analyzer](https://clang.llvm.org/docs/ClangStaticAnalyzer.html) - is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. It implements path-sensitive, inter-procedural analysis based on symbolic execution technique.
 
