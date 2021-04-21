@@ -176,7 +176,7 @@ C++ Benchmark Authoring Library/Framework.
 * [execq](https://github.com/Alkenso/execq) - Smart queue that executes tasks in threadpool-like manner (serial / concurrent) in C++11.
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
-### Serialization
+### Parsing & Serialization
 
 * [json](https://github.com/nlohmann/json) 🥇 - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
