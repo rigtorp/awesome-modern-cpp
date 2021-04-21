@@ -187,7 +187,7 @@ C++ Benchmark Authoring Library/Framework.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [simdjson](https://github.com/lemire/simdjson) - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [Boost.JSON](https://github.com/CPPAlliance/json) - A JSON library with robust support for custom allocators.
-* [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson configuration files.
+* [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
 
 ### String formatting & templating
 
