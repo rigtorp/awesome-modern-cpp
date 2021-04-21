@@ -120,6 +120,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 * [cpp_starter_project](https://github.com/lefticus/cpp_starter_project/) - A template CMake project to get you started with C++ and tooling.
 * [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Pitchfork is a Set of C++ Project Conventions.  
+* [hjson-cpp-example](https://github.com/hjson/hjson-cpp-example) - A template repository for cross-platform GUI C++ applications using CMake, Qt 5 Widgets, GitHub Actions and Hjson configuration files.
 
 ## Libraries
 
