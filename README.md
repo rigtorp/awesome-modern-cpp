@@ -36,7 +36,7 @@ Find the latest C++ news and updates:
 Listen to the latest C++ podcasts:
 * [CppCast](https://cppcast.com/) ([YouTube](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA), [Twitter](https://twitter.com/cppcast)) - The first podcast by C++ developers for C++ developers!
 * [Cpp.chat](https://cpp.chat/) ([YouTube](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured), [Twitter](https://twitter.com/cppchat)) - Comments on c++ and issues of interest to c++ programmers.
-* [C++ Weekly](https://www.youtube.com/c/JasonTurner-lefticus) - Educational videos by Jason Turner.
+* [C++ Weekly](https://youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - Educational videos by Jason Turner.
 
 Read the latest C++ standard proposals:
 * [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
