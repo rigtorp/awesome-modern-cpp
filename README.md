@@ -188,6 +188,7 @@ C++ Benchmark Authoring Library/Framework.
 * [simdjson](https://github.com/lemire/simdjson) - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [Boost.JSON](https://github.com/CPPAlliance/json) - A JSON library with robust support for custom allocators.
 * [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
+* [json_struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser, parsing directly to and from C++ structs.
 
 ### String formatting & templating
 
