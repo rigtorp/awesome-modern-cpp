@@ -293,6 +293,7 @@ C++ Benchmark Authoring Library/Framework.
 * [build2](https://build2.org/) - is a cross-platform build toolchain for developing and packaging C and C++ code.
 * [CMake](https://cmake.org/) 🌟 - Cross-platform family of tools designed to build, test and package software.
 * [Meson](https://mesonbuild.com/) - is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
+* [XMake](https://xmake.io) - is a cross-platform build utility based on Lua.
 
 ### [Package management](https://en.wikipedia.org/wiki/Package_manager)
 
@@ -303,6 +304,7 @@ C++ Benchmark Authoring Library/Framework.
 * [CPM](https://github.com/TheLartians/CPM) - A CMake script for setup-free cross-plattform dependency management.
 * [Hunter](https://github.com/cpp-pm/hunter) - Cross-platform package manager for C++.
 * [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+* [xrepo](https://xrepo.xmake.io) - A cross-platform C/C++ package manager based on Xmake.
 
 ## About
 
