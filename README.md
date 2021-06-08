@@ -208,6 +208,7 @@ C++ Benchmark Authoring Library/Framework.
 * [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 * [cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
 * [cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
+* [Crow](https://crowcpp.org) - A Fast and Easy to use microframework for creating webservers (inspired by Python Flask).
 * [dmbcs-micro-server](https://rdmp.org/dmbcs/micro-server) - C++20-based JSON, HTML, text and PNGs over HTTP; simple way to embed a server into your application to provide a web-based UI.
 * [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework
 * [oat++](https://github.com/oatpp/oatpp) - High-performance Web framework (C++11, zero-dependency).
