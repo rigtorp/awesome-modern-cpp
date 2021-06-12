@@ -164,6 +164,7 @@ C++ Benchmark Authoring Library/Framework.
 ### Logging
 
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+* [loguru](https://github.com/emilk/loguru) - A lightweight and flexible C++ logging library
 
 ### Threading
 
