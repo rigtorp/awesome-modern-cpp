@@ -202,6 +202,7 @@ C++ Benchmark Authoring Library/Framework.
 * [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 * [ChaiScript](https://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
+* [MetaCall](https://github.com/metacall/core) - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more.
 
 ### Web / HTTP
 
