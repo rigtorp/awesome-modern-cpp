@@ -136,6 +136,7 @@ libraries with novel use of new C++ features.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [POCO](https://pocoproject.org/) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [nonstd-lite](https://github.com/martinmoene/nonstd-lite) - Parent of *-lite repositories, a migration path to post-C++11 features for pre-C++11 environments.
+* [xtd](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android.
 
 ### Testing
 
