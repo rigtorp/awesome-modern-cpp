@@ -245,7 +245,7 @@ C++ Benchmark Authoring Library/Framework.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
 * [Font Chef](https://github.com/mobius3/font-chef) - A C99 and C++14 library to cook fonts and render text
-* [HashLib4CPP](https://github.com/ron4fun/HashLib4CPP) - C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
+* [HashLibPlus](https://github.com/ron4fun/HashLibPlus) - A C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
@@ -255,7 +255,9 @@ C++ Benchmark Authoring Library/Framework.
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
 * [range-v3](https://github.com/ericniebler/range-v3) - Experimental range library for C++11/14/17.
+* [SimpleBaseLib4CPP](https://github.com/ron4fun/SimpleBaseLib4CPP) - A simple C++11 Base Encoding library that provides at the moment support for encoding and decoding various bases such as Base16, Base32 (various variants), Base58 (various variants), Base64 (various variants). [MIT]
 * [simple_match](https://github.com/jbandela/simple_match) - Simple header only pattern matching for c++14.
+* [SRL-CPP](https://github.com/ron4fun/SRL-CPP) - A Simple Regex Language builder library written in C++11 that provides an easy to use interface for constructing both simple and complex regex expressions. [MIT]
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
 * [Vireo](https://github.com/twitter/vireo) - A lightweight and versatile video processing library by Twitter.
 * [indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++.
