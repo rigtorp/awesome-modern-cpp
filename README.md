@@ -190,6 +190,7 @@ C++ Benchmark Authoring Library/Framework.
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++.
 * [cpptoml](https://github.com/skystrife/cpptoml) - A header-only library for parsing TOML configuration files.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+* [cista](https://github.com/felixguendling/cista) - A C++17 library for high-performance zero-copy binary serialization.
 * [simdjson](https://github.com/lemire/simdjson) - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [Boost.JSON](https://github.com/CPPAlliance/json) - A JSON library with robust support for custom allocators.
 * [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
