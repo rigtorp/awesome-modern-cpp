@@ -239,7 +239,7 @@ C++ Benchmark Authoring Library/Framework.
 
 * [ASAP](https://github.com/mobius3/asap) - header-only library to parse, display, operate and iterate on dates.
 * [BigIntegerCPP](https://github.com/ron4fun/BigIntegerCPP) - A C++11 large integer library with effective high performance, simplistic in nature and also clean in the eyes.
-* [CAF](https://actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
+* [CAF](https://www.actor-framework.org/) - An Open Source Implementation of the Actor Model in C++.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 * [Conduit](https://github.com/LoopPerfect/conduit) - High Performance Streams Based on Coroutine TS.
 * [cppitertools](https://github.com/ryanhaining/cppitertools) - itertools (python) implementation for C++14
