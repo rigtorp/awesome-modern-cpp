@@ -94,7 +94,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
 * [Anthony Williams' blog](https://www.justsoftwaresolutions.co.uk/blog/)
 * [Embedded in Academia](https://blog.regehr.org/) - John Regehr, Professor of Computer Science, University of Utah, USA.
-* [Eric Niebler](http://ericniebler.com/)
+* [Eric Niebler](https://ericniebler.com/)
 * [Fluent C++](https://www.fluentcpp.com/) - Expressive Code in C++.
 * [Guru of the Week (new posts)](https://herbsutter.com/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Guru of the Week (older posts)](http://www.gotw.ca/gotw/) - Older Guru of the Week posts.
