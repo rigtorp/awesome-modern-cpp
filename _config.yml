@@ -1,4 +1,6 @@
-exclude: [README.md]
+exclude: 
+  - README.md
+  - TODO
 defaults:
   -
     scope:
