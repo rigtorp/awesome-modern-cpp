@@ -8,16 +8,33 @@
   <link rel="index" title="Erik Rigtorp" href="/">
   <title>{{ page.title }}</title>
   <style type="text/css">
+    :root {
+      --background-color: #fff;
+      --text-color: #1f1f1f;
+      --link-color: #0b57d0;
+      --link-color-hover: #041e49;
+    }
+    @media (prefers-color-scheme: dark) { 
+      :root {
+        --background-color: #1f1f1f;
+        --text-color: #e3e3e3;
+        --link-color: #a8c7fa;
+        --link-color-hover: #d3e3fd;
+      }
+    }
     body {
-      margin:40px auto;
-      max-width: 650px;
-      line-height:1.6;
-      font-size:18px;
-      color:#444;
+      margin: 40px auto;
+      max-width: 70ch;
+      line-height: 1.5;
+      background: var(--background-color);
+      color: var(--text-color);
       padding:0 10px;
       font-family: "Georgia", "Times New Roman", Times, serif;
+      font-size: 1em;
     }
-    h1,h2,h3 { line-height:1.2; }
+    h1,h2,h3 { line-height: 1.2; }
+    a { color: var(--link-color); }
+    a:hover { color: var(--link-color-hover); }
   </style>
 </head>
 <body>
