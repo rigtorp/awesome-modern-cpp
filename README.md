@@ -163,6 +163,7 @@ C++ Benchmark Authoring Library/Framework.
 * [hayai](https://github.com/nickbruun/hayai) - the C++ benchmarking framework.
 * [Nonius](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework.
 C++ Benchmark Authoring Library/Framework.
+* [nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 
 ### Logging
 
