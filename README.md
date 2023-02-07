@@ -152,6 +152,7 @@ libraries with novel use of new C++ features.
 * [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 * [Mull](https://github.com/mull-project/mull) - Practical mutation testing tool for C and C++
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
+* [snitch](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework.
 
 ### Benchmarking
 
