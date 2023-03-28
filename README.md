@@ -146,6 +146,7 @@ libraries with novel use of new C++ features.
 * [autocheck](https://github.com/thejohnfreeman/autocheck) - QuickCheck and SmallCheck clones for C++.
 * [Bandit](https://banditcpp.github.io/bandit/) - A header-only framework for C++11 that wants to make working with unit tests a pleasant experience.
 * [Boost.Test](https://www.boost.org/doc/libs/1_70_0/libs/test/doc/html/index.html) - Boost testing framework.
+* [Boost:UT](https://boost-ext.github.io/ut/) - C++20 μ(micro)/Unit Testing framework, single-header, without need for macros.
 * [Catch](https://github.com/catchorg/Catch2) 🔥 - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [doctest](https://github.com/onqtam/doctest) 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [Fakeit](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
