@@ -107,7 +107,6 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog
 * [The View from Aristeia](https://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
-* [Blog Surf C++ Blogs](https://blogsurf.io/tag/cpp) - List of C++ blogs by individual developers.
 
 ### Websites
 
