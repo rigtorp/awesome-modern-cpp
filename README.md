@@ -68,12 +68,12 @@ Find C++ user groups:
 
 TODO curate list of good talks on how to simplify code using C++11/17/20 features
 
-Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.cjdb.com.au/sg20-and-videos).
+Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog.cjdb.xyz/sg20-and-videos.html).
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
 * [CppCon 2014: Bjarne Stroustrup "Make Simple Tasks Simple!"](https://www.youtube.com/watch?v=nesCaocNjtQ)
 * [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"](https://www.youtube.com/watch?v=c1gO9aB9nbs)
-* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcv)
+* [CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"](https://www.youtube.com/watch?v=CmxkPChOcvw)
 * [CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://www.youtube.com/watch?v=wQxj20X-tIU)
 * [CppCon 2015: Bjarne Stroustrup "Writing Good C++14"](https://www.youtube.com/watch?v=1OEu9C51K2A)
 * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA)
@@ -107,7 +107,6 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://www.
 * [The View from Aristeia](https://scottmeyers.blogspot.com/) -Scott Meyers' Professional Activities and Interests.
 * [Visual C++ Team Blog](https://blogs.msdn.microsoft.com/vcblog/)
 * [Why is a raven like a writing desk?](http://www.elbeno.com/blog/)
-* [Blog Surf C++ Blogs](https://blogsurf.io/tag/cpp) - List of C++ blogs by individual developers.
 
 ### Websites
 
