@@ -114,6 +114,7 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog
 * [C++ Patterns](https://cpppatterns.com/) - A repository of modern C++ patterns.
 * [C++ reference](https://en.cppreference.com/w/)🔥 - C++ reference.
 * [C++ By Example](http://cbyexample.com) - Learn C++ by Example!
+* [C++ Persian Community (iOSTREAM)](http://iostream.ir/)
 
 ## Project Starter Templates
 
@@ -121,6 +122,8 @@ Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog
 * [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 * [cpp_starter_project](https://github.com/lefticus/cpp_starter_project/) - A template CMake project to get you started with C++ and tooling.
 * [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Pitchfork is a Set of C++ Project Conventions.  
+* [Project-Template](https://github.com/genyleap/Project-Template) - A template for modern C++ projects with useful features for developing cross-platform products.
+
 
 ## Libraries
 
