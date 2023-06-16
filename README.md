@@ -42,12 +42,12 @@ Read the latest C++ standard proposals:
 * [C++ Standards Committee Papers](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/).
 
 Discuss everything related to C++:
-* [r/cpp](https://www.reddit.com/r/cpp/) - The C++ subreddit.
+* [r/cpp](https://www.reddit.com/r/cpp/) - The C++ subreddit. (Private indefinitely because of the Reddit blackout protest.)
 * [C++ Slack](https://cppalliance.org/slack/) - The C++ Slack workspace.
 * [CoreHard Telegram group](https://t.me/corehard_by).
 
 Ask your C++ questions:
-* [r/cpp_questions](https://www.reddit.com/r/cpp_questions) - A subreddit for C++ questions and answers.
+* [r/cpp_questions](https://www.reddit.com/r/cpp_questions) - A subreddit for C++ questions and answers. (Private indefinitely because of the Reddit blackout protest.)
 * [Stackoverflow C++](https://stackoverflow.com/questions/tagged/c%2b%2b) / [C++11](https://stackoverflow.com/questions/tagged/c%2b%2b11) / [C++14](https://stackoverflow.com/questions/tagged/c%2b%2b14) / [C++17](https://stackoverflow.com/questions/tagged/c%2b%2b17) / [C++20](https://stackoverflow.com/questions/tagged/c%2b%2b20) - Stackoverflow questions about C++.
 
 Maybe your question was already answered in a FAQ?:
