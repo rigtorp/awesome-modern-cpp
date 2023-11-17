@@ -150,6 +150,7 @@ libraries with novel use of new C++ features.
 * [clean-test](https://github.com/clean-test/clean-test) - A modern C++-20 testing framework.
 * [doctest](https://github.com/onqtam/doctest) 🚀 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [Fakeit](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
+* [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development.
 * [Googletest](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 * [Mull](https://github.com/mull-project/mull) - Practical mutation testing tool for C and C++
 * [rapidcheck](https://github.com/emil-e/rapidcheck) - QuickCheck clone for C++.
