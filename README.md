@@ -24,7 +24,7 @@ To add, remove or change things on the list:
 * [C++17 - The Complete Guide](https://www.cppstd17.com/) (Nicolai M. Josuttis) [C++17] - Giving guidance on how to use Language and Library Features of C++17.
 * [Professional CMake](https://crascit.com/professional-cmake/) (Craig Scott) - A practical guide for using CMake to build your C++ projects.
 * [Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/) (Changkun Ou) - The book claims to be "On the Fly". Its intent is to provide a comprehensive introduction to the relevant features regarding modern C++ (before 2020s).
-* [Modern C++ Youtube Tutorials]:(https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH)
+* [Modern C++ Youtube Tutorials](https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH) - Tutorials with examples for modern c++.
 
 For a comprehensive guide to C++ books see the
 [Stackoverflow Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list).
