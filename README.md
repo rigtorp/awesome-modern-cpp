@@ -228,6 +228,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ### Database
 
+* [Infinity](https://github.com/infiniflow/infinity) - AI-native database for LLM applications, developed in C++20
 * [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - C++ Driver for MongoDB.
 * [redox](https://github.com/hmartiro/redox) - Modern, asynchronous, and wicked fast C++11 client for Redis.
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14.
