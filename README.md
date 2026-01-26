@@ -177,6 +177,7 @@ C++ Benchmark Authoring Library/Framework.
 
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming Library
+* [dispenso](https://github.com/facebookincubator/dispenso) - A high-performance C++ library for parallel programming with thread pools, parallel for, futures, and task graphs.
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [MPMCQueue](https://github.com/rigtorp/MPMCQueue) - A bounded multi-producer multi-consumer lock-free queue written in C++11.
 * [SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.
