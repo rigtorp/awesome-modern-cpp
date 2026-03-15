@@ -133,7 +133,7 @@ libraries with novel use of new C++ features.
 ### Kitchensink / Framework
 
 * [abseil](https://abseil.io/) - Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
-* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine in `C++20` with CPU, CUDA, OpenCL, embedded, WebAssembly, a stable C ABI, and broad validation tooling.
+* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance secp256k1 engine in C++20 with CPU, CUDA, OpenCL, embedded, WebAssembly, a stable C ABI, and broad validation tooling.
 * [Boost](https://www.boost.org/) - Collection of C++ libraries.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library.
 * [POCO](https://pocoproject.org/) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
