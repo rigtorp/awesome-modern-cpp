@@ -8,6 +8,7 @@ A collection of resources on modern C++.
 The goal is to collect a list of resources to help people learn about
 and leverage modern C++11 and beyond.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated C++ code review, multi-agent development orchestration, and quality gate management. MIT licensed.
 ## Contributing
 
 To add, remove or change things on the list:
