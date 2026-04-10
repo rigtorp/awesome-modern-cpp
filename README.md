@@ -275,6 +275,7 @@ C++ Benchmark Authoring Library/Framework.
 
 ## Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rigtorp_awesome-modern-cpp) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Misc
 
 * [clang-format](https://clang.llvm.org/docs/ClangFormat.html) 🌟 - A tool to format C++ code.
