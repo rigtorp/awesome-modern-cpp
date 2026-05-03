@@ -253,6 +253,7 @@ C++ Benchmark Authoring Library/Framework.
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) - docopt creates beautiful command-line interfaces.
 * [EnTT](https://github.com/skypjack/entt) - A header-only, fast and, reliable entity-component system (ECS) for modern C++.
 * [Font Chef](https://github.com/mobius3/font-chef) - A C99 and C++14 library to cook fonts and render text
+* [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) - Header-only C++17 library for spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.
 * [HashLibPlus](https://github.com/ron4fun/HashLibPlus) - A C++11 library that provides an easy to use interface for computing hashes and checksums of strings, files, streams, bytearrays and untyped data to mention but a few. It also supports Incremental Hashing.
 * [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [iod](https://github.com/matt-42/iod) -  Meta programming utilities for C++14.
