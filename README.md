@@ -259,6 +259,7 @@ C++ Benchmark Authoring Library/Framework.
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
 * [Wise Enum](https://github.com/quicknir/wise_enum) - Static reflection for enums similar to Magic Enum but works with C++ 11/14/17. 
 * [Nameof](https://github.com/Neargye/nameof) - A header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum.
+* [PDF4QT](https://github.com/JakubMelka/PDF4QT) - A cross-platform C++20/Qt library and toolkit for viewing, editing, rendering, and manipulating PDF documents.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library (C++11, header-only).
 * [random](https://github.com/effolkronium/random) - A simple, convenient, header only Random for modern C++.
 * [rang](https://github.com/agauniyal/rang) - A simple, modern & header only C++11 library for colors in your terminal.
