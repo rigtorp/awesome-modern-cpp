@@ -67,9 +67,6 @@ Find C++ user groups:
 
 ### Talks
 
-
-TODO curate list of good talks on how to simplify code using C++11/17/20 features
-
 Start with [SG20 Education and Recommended Videos for Teaching C++](https://blog.cjdb.xyz/sg20-and-videos.html).
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) - Talks from the C++ Conference.
